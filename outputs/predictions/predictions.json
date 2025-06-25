@@ -1,0 +1,17 @@
+[
+  {
+    "class": "Icon",
+    "confidence": 27.09631621837616,
+    "index": 0
+  },
+  {
+    "class": "Login",
+    "confidence": 27.04322040081024,
+    "index": 2
+  },
+  {
+    "class": "Job",
+    "confidence": 19.310995936393738,
+    "index": 1
+  }
+]
