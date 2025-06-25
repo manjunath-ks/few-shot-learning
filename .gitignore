@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Models
+models/*.pth
+models/*.pt
+models/.gitkeep
+
+# Data
+data/train/*/*
+data/test/*
+data/test/.gitkeep
+
+# Outputs
+outputs/predictions/*
+outputs/confusion_matrices/*
+outputs/training_plots/*
+outputs/*/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
