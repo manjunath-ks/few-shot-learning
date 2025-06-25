@@ -17,6 +17,7 @@ models/.gitkeep
 data/train/*/*
 data/test/*
 data/test/.gitkeep
+!data/train/
 
 # Outputs
 outputs/predictions/*
