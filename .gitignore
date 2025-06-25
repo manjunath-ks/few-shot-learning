@@ -14,15 +14,15 @@ models/*.pt
 models/.gitkeep
 
 # Data
-#data/train/*/*
-#data/test/*
-#data/test/.gitkeep
+data/train/*/*
+data/test/*
+data/test/.gitkeep
 
 # Outputs
-#outputs/predictions/*
-#outputs/confusion_matrices/*
-#outputs/training_plots/*
-#outputs/*/.gitkeep
+outputs/predictions/*
+outputs/confusion_matrices/*
+outputs/training_plots/*
+outputs/*/.gitkeep
 
 # IDE
 .vscode/
